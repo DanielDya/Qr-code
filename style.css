@@ -12,3 +12,6 @@ font-weight: bold;
 button{
   cursor: pointer;
 }
+body{
+  background-color: black;
+}
