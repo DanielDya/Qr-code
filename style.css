@@ -1,0 +1,14 @@
+header{
+text-align: center;
+padding: 10px;
+font-weight: bold;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+
+button{
+  cursor: pointer;
+}
